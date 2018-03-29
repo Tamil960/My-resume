@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"tam.png",
+    "name":"Tamil",
+    "email":"tamilhari960@gmail.com",
+    "mobile":"9700922753",
+    "address":"Narayanavanam"
+
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+  "course":"MCA",
+  "college": " SVPCET, PUTTUR",
+  "data":["2017-20","94.9%"]
+},
+{
+  "course":"BSC(Computers)",
+  "college": "Seshachala degree college,puttur",
+  "data":["2014-2017","88%"]
+},
+{
+  "course":"Intermediate(MPC)",
+  "college": "Sai jyothi junior college,puttur",
+  "data":["2012-2014","79%"]
+},
+{
+  "course":"S.S.C",
+  "college": "Jnana jyothi vidhya mandir,puttur",
+  "data":["2012","85%"]
+}
+]
+}
